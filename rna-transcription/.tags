@@ -1,0 +1,4 @@
+Complement	/Users/dcox/exercism/ruby/rna-transcription/rna_transcription.rb	/^class Complement$/;"	class	line:1
+of_dna	/Users/dcox/exercism/ruby/rna-transcription/rna_transcription.rb	/^ def self.of_dna nucleotide$/;"	singleton method	line:5	class:Complement
+of_rna	/Users/dcox/exercism/ruby/rna-transcription/rna_transcription.rb	/^ def self.of_rna nucleotide$/;"	singleton method	line:9	class:Complement
+complement_of	/Users/dcox/exercism/ruby/rna-transcription/rna_transcription.rb	/^ def self.complement_of conversion_path, nucleotide$/;"	singleton method	line:14	class:Complement
